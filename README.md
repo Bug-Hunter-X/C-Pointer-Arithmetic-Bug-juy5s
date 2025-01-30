@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating a common pointer-related bug. The `bug.c` file shows incorrect usage that can lead to unexpected behavior or crashes.  The `bugSolution.c` file provides a corrected version.
